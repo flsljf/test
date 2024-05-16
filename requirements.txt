@@ -1,0 +1,12 @@
+streamlit
+FinanceDataReader
+pandas
+plotly
+pandas_ta
+beautifulsoup4
+requests
+numpy
+datetime
+timedelta
+re
+BytesIO
