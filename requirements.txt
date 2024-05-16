@@ -11,3 +11,7 @@ pandas_ta
 FinanceDataReader
 numpy
 pandas
+requests
+beautifulsoup4
+pandas
+pandas_ta
