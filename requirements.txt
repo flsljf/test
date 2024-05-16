@@ -1,9 +1,8 @@
 streamlit
-FinanceDataReader
 pandas
-plotly
-pandas_ta
-beautifulsoup4
-requests
+datetime
 numpy
-BytesIO
+matplotlib
+plotly
+ta
+finance-datareader
